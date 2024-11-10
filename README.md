@@ -1,4 +1,4 @@
-# Dépôt privé - Rapports "Ethical Hacking" - semestre 5 - IMT Mines Alès
+# Dépôt privé - Rapports "Ethical Hacking" - IMT Mines Alès
 
 **Ce dépôt Git est privé** et contient des documents sensibles marqués **TLP:RED**. Cela signifie que le partage de ces documents doit strictement se limiter aux destinataires individuels identifiés, et **aucune autre divulgation n’est autorisée sans l’approbation expresse du propriétaire**.
 
