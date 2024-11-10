@@ -6,7 +6,7 @@
 
 Ce dépôt est dédié aux rapports rédigés dans le cadre du cours "Ethical Hacking" du semestre 5 à l'IMT Mines Alès. Chaque rapport est indépendant et représente un document distinct.
 
-## Restrictions et Accès
+## Restrictions et accès
 
 Si vous avez accès à ce dépôt sans en avoir reçu l’autorisation, veuillez contacter le propriétaire à l'adresse suivante : **nathan.martel@etu.mines-ales.fr**.
 
