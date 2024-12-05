@@ -1,3 +1,0 @@
-1) Expliquer le SUID, ce que c'est, comment ça marche
-2) Expliquer le rapport à ce TP (2e VMs), ce qui est bien fait et pas bien fait et comment le bypasser
-3) Faire l'attaque, qu'est-ce que je peux faire en tant qu'attaquant
